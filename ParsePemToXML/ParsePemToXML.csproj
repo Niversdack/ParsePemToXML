@@ -7,4 +7,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove="cli\ParsePemToXML.pdb" />
+      <None Remove="cli\ParsePemToXML.dll" />
+      <None Remove="cli\ParsePemToXML.deps.json" />
+    </ItemGroup>
+
 </Project>

@@ -11,3 +11,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/.git
+/.idea
+*/bin
+*/*/Debug
+.DS_Store
